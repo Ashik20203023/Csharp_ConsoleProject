@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Console_BankManagement\Console_BankManagement\bin\Debug\net8.0\Console_BankManagement.exe
+C:\Users\User\source\repos\Console_BankManagement\Console_BankManagement\bin\Debug\net8.0\Console_BankManagement.deps.json
+C:\Users\User\source\repos\Console_BankManagement\Console_BankManagement\bin\Debug\net8.0\Console_BankManagement.runtimeconfig.json
+C:\Users\User\source\repos\Console_BankManagement\Console_BankManagement\bin\Debug\net8.0\Console_BankManagement.dll
+C:\Users\User\source\repos\Console_BankManagement\Console_BankManagement\bin\Debug\net8.0\Console_BankManagement.pdb
+C:\Users\User\source\repos\Console_BankManagement\Console_BankManagement\obj\Debug\net8.0\Console_BankManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Console_BankManagement\Console_BankManagement\obj\Debug\net8.0\Console_BankManagement.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Console_BankManagement\Console_BankManagement\obj\Debug\net8.0\Console_BankManagement.AssemblyInfo.cs
+C:\Users\User\source\repos\Console_BankManagement\Console_BankManagement\obj\Debug\net8.0\Console_BankManagement.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Console_BankManagement\Console_BankManagement\obj\Debug\net8.0\Console_BankManagement.dll
+C:\Users\User\source\repos\Console_BankManagement\Console_BankManagement\obj\Debug\net8.0\refint\Console_BankManagement.dll
+C:\Users\User\source\repos\Console_BankManagement\Console_BankManagement\obj\Debug\net8.0\Console_BankManagement.pdb
+C:\Users\User\source\repos\Console_BankManagement\Console_BankManagement\obj\Debug\net8.0\Console_BankManagement.genruntimeconfig.cache
+C:\Users\User\source\repos\Console_BankManagement\Console_BankManagement\obj\Debug\net8.0\ref\Console_BankManagement.dll
